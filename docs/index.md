@@ -18,7 +18,7 @@ In Information and Computation: 2020. **Special issue on GandALF 2018.** [[paper
 
 ## Conference publications
 
-1. A. R. Balasubramanian, J. Esparza and M. Raskin. *Finding Cut-Offs in Leaderless Rendez-Vous Protocols is Easy*. Accepted at FoSSaCS 2021. [[arXiv](https://arxiv.org/abs/2010.09471)]
+1. A. R. Balasubramanian, J. Esparza and M. Raskin. *Finding Cut-Offs in Leaderless Rendez-Vous Protocols is Easy*. FoSSaCS, 2021. [[paper](https://link.springer.com/chapter/10.1007/978-3-030-71995-1_3), [arXiv](https://arxiv.org/abs/2010.09471)]
 
 2. A. R. Balasubramanian. *Parameterized Complexity of Safety of Threshold Automata*. FSTTCS, 2020. [[paper](https://drops.dagstuhl.de/opus/volltexte/2020/13278/), [conference talk](https://www.youtube.com/watch?v=8bPVizOpwkE)]
 
