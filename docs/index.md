@@ -18,21 +18,23 @@ In Information and Computation: 2020. **Special issue on GandALF 2018.** [[paper
 
 ## Conference publications
 
-1. A. R. Balasubramanian, J. Esparza and M. Raskin. *Finding Cut-Offs in Leaderless Rendez-Vous Protocols is Easy*. FoSSaCS, 2021. [[paper](https://link.springer.com/chapter/10.1007/978-3-030-71995-1_3), [arXiv](https://arxiv.org/abs/2010.09471)]
+1. A. R. Balasubramanina, T. Lang, R. Ramanayake. *Decidability and Complexity in Weakening and Contraction Hypersequent Substructural Logics*. Accepted at LICS, 2021. [[arXiv](https://arxiv.org/abs/2104.09716)]
 
-2. A. R. Balasubramanian. *Parameterized Complexity of Safety of Threshold Automata*. FSTTCS, 2020. [[paper](https://drops.dagstuhl.de/opus/volltexte/2020/13278/), [conference talk](https://www.youtube.com/watch?v=8bPVizOpwkE)]
+2. A. R. Balasubramanian, J. Esparza and M. Raskin. *Finding Cut-Offs in Leaderless Rendez-Vous Protocols is Easy*. FoSSaCS, 2021. [[paper](https://link.springer.com/chapter/10.1007/978-3-030-71995-1_3), [arXiv](https://arxiv.org/abs/2010.09471)] **Invited for LMCS special issue.**
 
-3. A. R. Balasubramanian, J. Esparza, and M. Lazić. *Complexity of Verification and Synthesis of Threshold Automata*. ATVA, 2020 [[paper](https://link.springer.com/chapter/10.1007%2F978-3-030-59152-6_8),
+3. A. R. Balasubramanian. *Parameterized Complexity of Safety of Threshold Automata*. FSTTCS, 2020. [[paper](https://drops.dagstuhl.de/opus/volltexte/2020/13278/), [conference talk](https://www.youtube.com/watch?v=8bPVizOpwkE)]
+
+4. A. R. Balasubramanian, J. Esparza, and M. Lazić. *Complexity of Verification and Synthesis of Threshold Automata*. ATVA, 2020 [[paper](https://link.springer.com/chapter/10.1007%2F978-3-030-59152-6_8),
 [arXiv](https://arxiv.org/abs/2007.06248)]
 
-4. A. R. Balasubramanian, I. Walukiewicz. *Characterizing consensus in the Heard-Of model*.
+5. A. R. Balasubramanian, I. Walukiewicz. *Characterizing consensus in the Heard-Of model*.
 CONCUR, 2020. [[paper](https://drops.dagstuhl.de/opus/volltexte/2020/12821/), [arXiv](https://arxiv.org/abs/2004.09621)]
 
-5. A. R. Balasubramanian. *Complexity of controlled bad sequences over finite sets of Nd*. LICS, 2020. [[paper](https://doi.org/10.1145/3373718.3394753), [conference talk](https://www.youtube.com/watch?v=JmM8Tp5_1II), [poster](http://highlights-conference.org/2020-posters/14B/poster-14B-2.png)]
+6. A. R. Balasubramanian. *Complexity of controlled bad sequences over finite sets of Nd*. LICS, 2020. [[paper](https://doi.org/10.1145/3373718.3394753), [conference talk](https://www.youtube.com/watch?v=JmM8Tp5_1II), [poster](http://highlights-conference.org/2020-posters/14B/poster-14B-2.png)]
 
-6. A. R. Balasubramanian. *Parameterized Verification of Coverability in Well-Structured Broadcast Networks*. GandALF, 2018. [[paper](https://arxiv.org/abs/1809.03099v1)]
+7. A. R. Balasubramanian. *Parameterized Verification of Coverability in Well-Structured Broadcast Networks*. GandALF, 2018. [[paper](https://arxiv.org/abs/1809.03099v1)]
 
-7. A. R. Balasubramanian, N. Bertrand, and N. Markey. *Parameterized Verification of Synchronization in Constrained Reconfigurable Broadcast Networks*. TACAS, 2018 
+8. A. R. Balasubramanian, N. Bertrand, and N. Markey. *Parameterized Verification of Synchronization in Constrained Reconfigurable Broadcast Networks*. TACAS, 2018 
 [[paper](https://link.springer.com/chapter/10.1007%2F978-3-319-89963-3_3), [arXiv](https://arxiv.org/abs/1802.08469)]
 
 ## Invited Talks
