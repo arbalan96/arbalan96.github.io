@@ -18,7 +18,7 @@ In Information and Computation: 2020. **Special issue on GandALF 2018.** [[paper
 
 ## Conference publications
 
-1. A. R. Balasubramanina, T. Lang, R. Ramanayake. *Decidability and Complexity in Weakening and Contraction Hypersequent Substructural Logics*. Accepted at LICS, 2021. [[arXiv](https://arxiv.org/abs/2104.09716)]
+1. A. R. Balasubramanina, T. Lang, R. Ramanayake. *Decidability and Complexity in Weakening and Contraction Hypersequent Substructural Logics*. Accepted at LICS, 2021.
 
 2. A. R. Balasubramanian, J. Esparza and M. Raskin. *Finding Cut-Offs in Leaderless Rendez-Vous Protocols is Easy*. FoSSaCS, 2021. [[paper](https://link.springer.com/chapter/10.1007/978-3-030-71995-1_3), [arXiv](https://arxiv.org/abs/2010.09471)] **Invited for LMCS special issue.**
 
