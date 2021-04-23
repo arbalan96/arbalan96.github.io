@@ -1,0 +1,55 @@
+I"g<p><img class="profile-picture" src="profile2.jpeg" /></p>
+
+<p>Hi! I am a Ph.D. student at the Technical University of Munich, supervised by Prof. Javier Esparza and Prof. Igor Walukiewicz.</p>
+
+<p>My research interests include parameterized verification, automata theory and well-quasi orders.
+You can find more about my research on <a href="https://dblp.org/pid/215/5409.html">dblp</a>.</p>
+
+<h1 id="publications">Publications</h1>
+
+<h2 id="journal-publications">Journal publications</h2>
+
+<ol>
+  <li>A. R. Balasubramanian. <em>Parameterized Verification of Coverability in Infinite State Broadcast Networks</em>.
+In Information and Computation: 2020. <strong>Special issue on GandALF 2018.</strong> [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0890540120300808">paper</a>]</li>
+</ol>
+
+<h2 id="conference-publications">Conference publications</h2>
+
+<ol>
+  <li>
+    <p>A. R. Balasubramanina, T. Lang, R. Ramanayake. <em>Decidability and Complexity in Weakening and Contraction Hypersequent Substructural Logics</em>. Accepted at LICS, 2021.</p>
+  </li>
+  <li>
+    <p>A. R. Balasubramanian, J. Esparza and M. Raskin. <em>Finding Cut-Offs in Leaderless Rendez-Vous Protocols is Easy</em>. FoSSaCS, 2021. [<a href="https://link.springer.com/chapter/10.1007/978-3-030-71995-1_3">paper</a>, <a href="https://arxiv.org/abs/2010.09471">arXiv</a>] <strong>Invited for LMCS special issue.</strong></p>
+  </li>
+  <li>
+    <p>A. R. Balasubramanian. <em>Parameterized Complexity of Safety of Threshold Automata</em>. FSTTCS, 2020. [<a href="https://drops.dagstuhl.de/opus/volltexte/2020/13278/">paper</a>, <a href="https://www.youtube.com/watch?v=8bPVizOpwkE">conference talk</a>]</p>
+  </li>
+  <li>
+    <p>A. R. Balasubramanian, J. Esparza, and M. Lazić. <em>Complexity of Verification and Synthesis of Threshold Automata</em>. ATVA, 2020 [<a href="https://link.springer.com/chapter/10.1007%2F978-3-030-59152-6_8">paper</a>,
+<a href="https://arxiv.org/abs/2007.06248">arXiv</a>]</p>
+  </li>
+  <li>
+    <p>A. R. Balasubramanian, I. Walukiewicz. <em>Characterizing consensus in the Heard-Of model</em>.
+CONCUR, 2020. [<a href="https://drops.dagstuhl.de/opus/volltexte/2020/12821/">paper</a>, <a href="https://arxiv.org/abs/2004.09621">arXiv</a>]</p>
+  </li>
+  <li>
+    <p>A. R. Balasubramanian. <em>Complexity of controlled bad sequences over finite sets of Nd</em>. LICS, 2020. [<a href="https://doi.org/10.1145/3373718.3394753">paper</a>, <a href="https://www.youtube.com/watch?v=JmM8Tp5_1II">conference talk</a>, <a href="http://highlights-conference.org/2020-posters/14B/poster-14B-2.png">poster</a>]</p>
+  </li>
+  <li>
+    <p>A. R. Balasubramanian. <em>Parameterized Verification of Coverability in Well-Structured Broadcast Networks</em>. GandALF, 2018. [<a href="https://arxiv.org/abs/1809.03099v1">paper</a>]</p>
+  </li>
+  <li>
+    <p>A. R. Balasubramanian, N. Bertrand, and N. Markey. <em>Parameterized Verification of Synchronization in Constrained Reconfigurable Broadcast Networks</em>. TACAS, 2018 
+[<a href="https://link.springer.com/chapter/10.1007%2F978-3-319-89963-3_3">paper</a>, <a href="https://arxiv.org/abs/1802.08469">arXiv</a>]</p>
+  </li>
+</ol>
+
+<h2 id="invited-talks">Invited Talks</h2>
+
+<ol>
+  <li>Complexity of Verification and Synthesis of Threshold Automata at <a href="https://frida2020.galois.com/">FRIDA 2020</a>. <a href="https://www.youtube.com/watch?v=WrP8G_TE7so">Talk</a></li>
+</ol>
+
+:ET
