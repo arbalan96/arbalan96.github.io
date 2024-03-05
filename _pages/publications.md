@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
@@ -18,7 +18,7 @@ A full publication list is available at [dblp](https://dblp.org/pid/215/5409.htm
 
 * A. R. Balasubramanian. *Complexity of Coverability in Depth-Bounded Processes*. CONCUR, 2022. [[paper](https://drops.dagstuhl.de/opus/volltexte/2022/17080/)]
 
-* A. R. Balasubramanian, L. Guillou, C. Weil-Kennedy. *Parameterized Analysis of Reconfigurable Broadcast Networks*. FoSSaCS, 2022. [[paper](https://link.springer.com/chapter/10.1007/978-3-030-99253-8_4)]
+* A. R. Balasubramanian, L. Guillou, C. Weil-Kennedy. *Parameterized Analysis of Reconfigurable Broadcast Networks*. FoSSaCS, 2022. [[paper](https://link.springer.com/chapter/10.1007/978-3-030-99253-8_4)] [[erratum](/files/second-erratum.pdf)]
 
 * A. R. Balasubramanian. *Complexity of Coverability in Bounded Path Broadcast Networks*. FSTTCS, 2021. [[paper](https://drops.dagstuhl.de/opus/volltexte/2021/15546/)] 
 
