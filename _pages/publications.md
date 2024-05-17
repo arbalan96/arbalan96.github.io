@@ -12,6 +12,8 @@ A full publication list is available at [dblp](https://dblp.org/pid/215/5409.htm
 
 ## Conference publications
 
+* A. R. Balasubramanian. *Decidability and Complexity of Decision Problems for Affine Continuous VASS*. Accepted at LICS, 2024. [[full version](/files/LICS24.pdf)]
+
 * A. R. Balasubramanian, R. Majumdar, R. S. Thinniyam, G. Zetzsche. *Reachability in Continuous Pushdown VASS*. POPL, 2024. [[paper](https://dl.acm.org/doi/10.1145/3633279)]
 
 * A. R. Balasubramanian. *Coefficient Synthesis for Threshold Automata*. RP, 2022. [[paper](https://link.springer.com/chapter/10.1007/978-3-031-19135-0_9)]
