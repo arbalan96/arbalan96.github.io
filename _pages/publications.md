@@ -10,7 +10,7 @@ author_profile: true
 
 A full publication list is available at [dblp](https://dblp.org/pid/215/5409.html).
 
-## Conference publications
+## Conference Publications
 
 * **General Decidability Results for Systems with Continuous Counters**    [[arXiv](https://arxiv.org/abs/2511.21559)]<br>
 A. R. Balasubramanian, M. Hague, R. Majumdar, R. S. Thinniyam and G. Zetzsche<br>
@@ -35,7 +35,7 @@ A. R. Balasubramanian, R. Majumdar, R. S. Thinniyam, G. Zetzsche<br>
 
 * **Coefficient Synthesis for Threshold Automata** [[paper](https://link.springer.com/chapter/10.1007/978-3-031-19135-0_9)] [[arXiv](https://arxiv.org/abs/2304.08917)]<br>
 A. R. Balasubramanian<br>
-*Reachability Problems (RP) 2022*
+*Reachability Problems (RP) 2022*<br>
 *<span style="color: blue;">Invited to Fundamenta Infomaticae special issue</span>*
 
 * **Complexity of Coverability in Depth-Bounded Processes** [[paper](https://drops.dagstuhl.de/opus/volltexte/2022/17080/)]<br>
@@ -92,7 +92,7 @@ A. R. Balasubramanian<br>
 A. R. Balasubramanian, N. Bertrand, and N. Markey<br>
 *Tools and Algorithms for the Construction and Analysis of Systems (TACAS) 2018*
 
-## Journal publications
+## Journal Publications
 
 * **Finding Cut-Offs in Leaderless Rendez-Vous Protocols is Easy** [[paper](https://lmcs.episciences.org/12402)]<br>
 A. R. Balasubramanian, J. Esparza and M. Raskin<br>

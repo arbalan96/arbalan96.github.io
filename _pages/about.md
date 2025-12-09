@@ -17,9 +17,8 @@ I received my Ph.D. at the Technical University of Munich under Prof. Javier Esp
 I also worked briefly as a Vertretungsprofessur (Interim professor) at the Technical University of Munich from October 2024 till March 2025.
 
 My research interests include the algorithmic analysis of infinite-state systems and its applications to formal verification and parameterized systems.
-My work is focused on understanding the precise complexity of analyzing different classes of infinite-state systems.
-When the complexity of such analysis is too high, I am also interested in developing tractable over-approximations to circumvent the intractability of exact analysis.
+My work is focused on understanding the precise complexity of analysis of infinite-state systems.
+Beyond that, I am also interested in developing tractable approximations for systems for which exact analysis is infeasible.
 
-You can find more about my research on [dblp](https://dblp.org/pid/215/5409.html) or [Google Scholar](https://scholar.google.com/citations?user=hTlnXbwAAAAJ&hl=en).
 
 
