@@ -39,3 +39,69 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* ==========================================================================
+   News panel, floated right on the home page.
+   Append to the bottom of assets/css/main.scss
+   ========================================================================== */
+
+.home-news {
+  float: right;
+  width: 15em;
+  margin: 0 0 1.5em 2em;
+  padding-left: 1.25em;
+  border-left: 1px solid #f2f3f3;
+  font-size: 0.75em;
+  line-height: 1.5;
+}
+
+.home-news h3 {
+  margin: 0 0 0.75em;
+  font-size: 1em;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: #494e52;
+}
+
+.home-news ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.home-news li {
+  margin-bottom: 1em;
+}
+
+.home-news .news-date {
+  display: block;
+  color: #898c8f;
+  font-size: 0.85em;
+}
+
+/* Push the panel into the theme's unused right gutter. */
+@media (min-width: 925px) {
+  .home-news {
+    margin-right: -200px;
+  }
+}
+
+@media (min-width: 1280px) {
+  .home-news {
+    width: 17em;
+    margin-right: -300px;
+  }
+}
+
+/* Stack below the text on narrow screens. */
+@media (max-width: 1024px) {
+  .home-news {
+    float: none;
+    width: auto;
+    margin: 2em 0 0;
+    padding: 1.5em 0 0;
+    border-left: 0;
+    border-top: 1px solid #f2f3f3;
+    font-size: 0.85em;
+  }
+}

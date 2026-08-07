@@ -41,7 +41,7 @@ Bachelor's thesis<br>
 Guided research project<br>
 *Technical University of Munich*
 
-* Lucie Guillouw: **Parameterized Analysis of Reconfigurable Broadcast Networks** (2022) <br>
+* Lucie Guillou: **Parameterized Analysis of Reconfigurable Broadcast Networks** (2022) <br>
 Research internship; Co-supervised with Chana Weil-Kennedy<br>
 *ENS Rennes*
 

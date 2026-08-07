@@ -12,11 +12,31 @@ A full publication list is available at [dblp](https://dblp.org/pid/215/5409.htm
 
 ## Conference Publications
 
-* **General Decidability Results for Systems with Continuous Counters**    [[arXiv](https://arxiv.org/abs/2511.21559)]<br>
-A. R. Balasubramanian, M. Hague, R. Majumdar, R. S. Thinniyam and G. Zetzsche<br>
-*Accepted at the Principles of Programming Languages (POPL) 2026*
+### 2026
 
-* **Presburger Functional Synthesis: Complexity and Tractable Normal Forms** [[arXiv](https://arxiv.org/abs/2508.07207)]<br>
+* **Reachability in Fixed-Dimensional Continuous VASS** [[arXiv](https://arxiv.org/abs/2606.30042)]<br>
+M. Ajdarów, A. R. Balasubramanian, Ł. Orlikowski<br>
+*Accepted at the International Conference on Concurrency Theory (CONCUR) 2026*
+
+* **The Complexity of Nested Reset Counter Systems** [[paper](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.LICS.2026.11)] [[arXiv](https://arxiv.org/abs/2605.14850)]<br>
+A. R. Balasubramanian, F. Schmidt<br>
+*Logic in Computer Science (LICS) 2026*
+
+* **Hypersequent Calculi Have Ackermann Complexity** [[paper](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.LICS.2026.10)] [[arXiv](https://arxiv.org/abs/2602.19229)]<br>
+A. R. Balasubramanian, V. Greati, R. Ramanayake<br>
+*Logic in Computer Science (LICS) 2026*
+
+* **State Space Estimation for DPOR-based Model Checkers** [[paper](https://dl.acm.org/doi/10.1145/3808291?)] [[arXiv](https://arxiv.org/abs/2512.23996)]<br>
+A. R. Balasubramanian, M. H. K. Jorshari, R. Majumdar, U. Mathur, M. Zhang<br>
+*Programming Language Design and Implementation (PLDI 2026)*
+
+* **General Decidability Results for Systems with Continuous Counters**  [[paper](https://dl.acm.org/doi/10.1145/3776661)] [[arXiv](https://arxiv.org/abs/2511.21559)]<br>
+A. R. Balasubramanian, M. Hague, R. Majumdar, R. S. Thinniyam and G. Zetzsche<br>
+*Principles of Programming Languages (POPL) 2026*
+
+### 2025
+
+* **Presburger Functional Synthesis: Complexity and Tractable Normal Forms** [[paper](https://proceedings.kr.org/2025/2/)] [[arXiv](https://arxiv.org/abs/2508.07207)]<br>
 S. Akshay, A. R. Balasubramanian, S. Chakraborty and G. Zetzsche<br>
 *International Conference on the Principles of Knowledge Representation and Reasoning (KR) 2025*
 
@@ -24,6 +44,8 @@ S. Akshay, A. R. Balasubramanian, S. Chakraborty and G. Zetzsche<br>
 A. R. Balasubramanian, D. Chistikov and R. Majumdar<br>
 *Logic in Computer Science (LICS) 2025<br>*
 *<span style="color: blue;">Distinguished Paper Award, Invited to TheoretiCS special issue</span>*
+
+### 2024
 
 * **Decidability and Complexity of Decision Problems for Affine Continuous VASS** [[paper](https://dl.acm.org/doi/10.1145/3661814.3662124)] [[arXiv](https://arxiv.org/abs/2405.11085)]<br>
 A. R. Balasubramanian<br>
@@ -33,10 +55,12 @@ A. R. Balasubramanian<br>
 A. R. Balasubramanian, R. Majumdar, R. S. Thinniyam, G. Zetzsche<br>
 *Principles of Programming Languages (POPL) 2024*
 
+### 2022
+
 * **Coefficient Synthesis for Threshold Automata** [[paper](https://link.springer.com/chapter/10.1007/978-3-031-19135-0_9)] [[arXiv](https://arxiv.org/abs/2304.08917)]<br>
 A. R. Balasubramanian<br>
 *Reachability Problems (RP) 2022*<br>
-*<span style="color: blue;">Invited to Fundamenta Infomaticae special issue</span>*
+*<span style="color: blue;">Invited to Fundamenta Informaticae special issue</span>*
 
 * **Complexity of Coverability in Depth-Bounded Processes** [[paper](https://drops.dagstuhl.de/opus/volltexte/2022/17080/)]<br>
 A. R. Balasubramanian<br>
@@ -45,6 +69,8 @@ A. R. Balasubramanian<br>
 * **Parameterized Analysis of Reconfigurable Broadcast Networks** [[paper](https://link.springer.com/chapter/10.1007/978-3-030-99253-8_4)] [[arXiv](https://arxiv.org/abs/2201.10432)] [[erratum](/files/second-erratum.pdf)] <br>
 A. R. Balasubramanian, L. Guillou, C. Weil-Kennedy<br>
 *International Conference on Foundations of Software Science and Computation Structures (FoSSaCS) 2022*
+
+### 2021
 
 * **Complexity of Coverability in Bounded Path Broadcast Networks** [[paper](https://drops.dagstuhl.de/opus/volltexte/2021/15546/)]<br>
 A. R. Balasubramanian<br>
@@ -67,6 +93,8 @@ A. R. Balasubramanian, J. Esparza and M. Raskin<br>
 *International Conference on Foundations of Software Science and Computation Structures (FoSSaCS) 2021*<br>
 *<span style="color: blue;">Invited to LMCS special issue</span>*
 
+### 2020
+
 * **Parameterized Complexity of Safety of Threshold Automata** [[paper](https://drops.dagstuhl.de/opus/volltexte/2020/13278/)] [[code](https://github.com/arbalan96/thr_aut_SMT)]<br>
 A. R. Balasubramanian<br>
 *Foundations of Software Technology & Theoretical Computer Science (FSTTCS) 2020*
@@ -83,9 +111,11 @@ A. R. Balasubramanian, I. Walukiewicz<br>
 A. R. Balasubramanian<br>
 *Logic in Computer Science (LICS) 2020*
 
+### 2018
+
 * **Parameterized Verification of Coverability in Well-Structured Broadcast Networks** [[paper](https://arxiv.org/abs/1809.03099v1)]<br>
 A. R. Balasubramanian<br>
-*Symposium on Games, Automata, Logics and Formal Verification (GandALF): 2021*<br>
+*Symposium on Games, Automata, Logics and Formal Verification (GandALF): 2018*<br>
 *<span style="color: blue;">Invited to Information and Computation special issue</span>*
 
 * **Parameterized Verification of Synchronization in Constrained Reconfigurable Broadcast Networks** [[paper](https://link.springer.com/chapter/10.1007%2F978-3-319-89963-3_3)] [[arXiv](https://arxiv.org/abs/1802.08469)]<br>
@@ -103,3 +133,18 @@ A. R. Balasubramanian, J. Esparza and M. Raskin<br>
 A. R. Balasubramanian<br>
 *Information and Computation 2020*<br>
 *<span style="color: blue;">Special issue of GandALF 2018</span>*
+
+
+## Preprints and Submissions
+
+* **Context-Bounded Plans for Hierarchical Task Networks**<br>
+A. R. Balasubramanian<br>
+*Submitted to AAAI 2027*
+
+* **Beep Is All You Need**<br>
+A. R. Balasubramanian, L. Guillou<br>
+
+* **Coefficient Synthesis for Threshold Automata**[[arXiv](https://arxiv.org/abs/2304.08917v3)]<br>
+A. R. Balasubramanian<br>
+*Submitted to Fundamenta Informaticae*<br>
+*<span style="color: blue;">Special issue of RP 2022 and 2023</span>*
