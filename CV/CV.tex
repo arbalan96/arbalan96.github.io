@@ -1,0 +1,452 @@
+%% start of file `template.tex'.
+%% Copyright 2006-2013 Xavier Danaux (xdanaux@gmail.com).
+%
+% This work may be distributed and/or modified under the
+% conditions of the LaTeX Project Public License version 1.3c,
+% available at http://www.latex-project.org/lppl/.
+
+
+\documentclass[11pt,a4paper,sans]{moderncv}        % possible options include font size ('10pt', '11pt' and '12pt'), paper size ('a4paper', 'letterpaper', 'a5paper', 'legalpaper', 'executivepaper' and 'landscape') and font family ('sans' and 'roman')
+\usepackage{amsfonts}
+% modern themes
+\moderncvstyle{banking}                            % style options are 'casual' (default), 'classic', 'oldstyle' and 'banking'
+\moderncvcolor{black}                                % color options 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
+%\renewcommand{\familydefault}{\sfdefault}         % to set the default font; use '\sfdefault' for the default sans serif font, '\rmdefault' for the default roman one, or any tex font name
+\nopagenumbers{}                                  % uncomment to suppress automatic page numbering for CVs longer than one page
+
+\usepackage{url}
+% character encoding
+\usepackage[utf8]{inputenc}                       % if you are not using xelatex ou lualatex, replace by the encoding you are using
+%\usepackage{CJKutf8}                              % if you need to use CJK to typeset your resume in Chinese, Japanese or Korean
+
+% adjust the page margins
+\usepackage[scale=0.75]{geometry}
+%\setlength{\hintscolumnwidth}{3cm}                % if you want to change the width of the column with the dates
+%\setlength{\makecvtitlenamewidth}{10cm}           % for the 'classic' style, if you want to force the width allocated to your name and avoid line breaks. be careful though, the length is normally calculated to avoid any overlap with your personal info; use this at your own typographical risks...
+
+\usepackage{import}
+
+
+% personal data
+\name{A. R.}{Balasubramanian}
+
+% \title{Curriculum Vitae}                               % optional, remove / comment the line if not wanted
+\address{Medicusstrasse 17, 67655, Kaiserslautern}{Germany} {}
+%\address{No.9, Rajaji Street, Ananda Nagar, East Tambaram}{Chennai - 600059, Tamil Nadu, India}% optional, remove / comment the line if not wanted; the "postcode city" and and "country" arguments can be omitted or provided empty
+\phone[mobile]{015166936388}
+%\phone[mobile]{+91 805 629 0039}                   % optional, remove / comment the line if not wanted
+%\phone[fixed]{01234 123456}                    % optional, remove / comment the line if not wanted
+%\phone[fax]{+3~(456)~789~012}                      % optional, remove / comment the line if not wanted
+\email{bayikudi@mpi-sws.org}                               % optional, remove / comment the line if not wanted
+\homepage{arbalan96.github.io}                         % optional, remove / comment the line if not wanted
+%\extrainfo{additional information}                 % optional, remove / comment the line if not wanted
+%\photo[64pt][0.4pt]{picture}                       % optional, remove / comment the line if not wanted; '64pt' is the height the picture must be resized to, 0.4pt is the thickness of the frame around it (put it to 0pt for no frame) and 'picture' is the name of the picture file
+%\quote{Some quote}                                 % optional, remove / comment the line if not wanted
+
+% to show numerical labels in the bibliography (default is to show no labels); only useful if you make citations in your resume
+%\makeatletter
+%\renewcommand*{\bibliographyitemlabel}{\@biblabel{\arabic{enumiv}}}
+%\makeatother
+%\renewcommand*{\bibliographyitemlabel}{[\arabic{enumiv}]}% CONSIDER REPLACING THE ABOVE BY THIS
+
+% bibliography with mutiple entries
+%\usepackage{multibib}
+%\newcites{book,misc}{{Books},{Others}}
+%----------------------------------------------------------------------------------
+%            content
+%----------------------------------------------------------------------------------
+
+\begin{document}
+%\begin{CJK*}{UTF8}{gbsn}                          % to typeset your resume in Chinese using CJK
+%-----       resume       ---------------------------------------------------------
+\makecvtitle
+%\small{Undergraduate electrical and electronic engineer completing the final year of a master's degree. Passionate about science, with strong technical, business, and interpersonal skills for working in a team and successfully completing a project.}
+
+
+\vspace{-1cm}
+
+\section*{Personal Data}
+
+\setlength{\tabcolsep}{10 pt}
+\begin{tabular}{l l}
+\textbf{Born : } & 19 August 1996; Surandai, Tamil Nadu, India\\
+\textbf{Citizenship : } & Indian\\
+\textbf{Languages : } & Tamil (Mother tongue), English (Fluent), Hindi (Intermediate), German (Basic)\\
+\end{tabular}
+\setlength{\tabcolsep}{0pt}
+
+
+\section{Academic Work Experience}
+
+\begin{itemize}
+	
+	\item{\cventry{}{Max Planck Institute for Software Systems}{Post-doctoral Researcher}{Apr. 2025 - Present}{}{}}
+	
+	\vspace{2 pt}
+	
+	\item{\cventry{}{Technical University of Munich}{Interim Professor (Vertretungsprofessur)}{Oct. 2024 - Mar. 2025}{}{Professorship for 6 months in between my post-doctoral position}}
+	
+	\vspace{2 pt}
+	
+	\item{\cventry{}{Max Planck Institute for Software Systems}{Post-doctoral Researcher}{May 2024 - Sep. 2024}{}{}}
+	
+	\vspace{2pt}
+	
+	\item{\cventry{}{Max Planck Institute for Software Systems}{Research Fellow}{Sep. 2023 - Apr. 2024}{}{}}
+	
+	\vspace{2pt}
+	
+	\item{\cventry{}{Technical University of Munich}{Research Fellow}{Sep. 2019 - Aug. 2023}{}{}}
+\end{itemize}
+
+
+\section{Education}
+
+
+\begin{itemize}
+
+\item{\cventry{}{Technical University of Munich}{PhD in Computer Science \textcolor{blue}{(Summa cum laude)}}{2019 - 2024}{}{Submission - Aug. 2023, Defense - April 17, 2024}}
+
+
+\vspace{2 pt}
+
+
+\item{\cventry{}{Chennai Mathematical Institute}{Master of Science in Computer Science \textcolor{blue}{(Gold medal)}}{2017 - 2019}{}{}}
+%\begin{itemize}
+%\item CGPA : 9.94/10
+%\end{itemize}
+
+\vspace{2 pt}
+
+\item{\cventry{}{Chennai Mathematical Institute}{Bachelor of Science in Mathematics and Computer Science \textcolor{blue}{(Honours)}}{2014 - 2017}{}{}}
+%\begin{itemize}
+%\item CGPA : 8.64/10
+%\item CGPA in Computer science courses : 9.28/10
+%\end{itemize}
+
+
+\end{itemize}
+
+%\section{Publications}
+
+%\vspace{2pt}
+
+\section{Conference Publications}
+
+%\vspace{4pt}
+
+\textbf{\textcolor{blue}{23 conference publications}} (CORE Ranking - 10 A$^*$, 7 A, 6 Others). H-index - 7 and 129 Citations - \href{https://scholar.google.com/citations?user=hTlnXbwAAAAJ&hl=en}{\underline{Google Scholar}},
+\href{https://dblp.org/pid/215/5409.html}{\underline{DBLP}} and \href{https://orcid.org/0000-0002-7258-5445}{\underline{ORCID}}.
+
+\vspace{5pt}
+
+\begin{enumerate}
+	\setlength\itemsep{4pt}
+	\item M. Ajdarów, A. R. Balasubramanian and Ł. Orlikowski. \textit{Reachability in Fixed-Dimensional Continuous VASS}. Accepted at the International Conference on Concurrency Theory (CONCUR): 2026.
+	\item A. R. Balasubramanian and F. Schmidt. \textit{The Complexity of Nested Reset Counter Systems}. In LIPIcs, Logic in Computer Science (LICS): 2026.
+	\item A. R. Balasubramanian, V. Greati and R. Ramanayake. \textit{Hypersequent Calculi Have Ackermannian Complexity}. In LIPIcs, Logic in Computer Science (LICS): 2026.
+	\item A. R. Balasubramanian, M. H. K. Jorshari, R. Majumdar, U. Mathur and M. Zhang. \textit{State Space Estimation for DPOR-based Model Checkers}. In ACM, Programming Language Design and Implementation (PLDI): 2026.
+	\item A. R. Balasubramanian, M. Hague, R. Majumdar, R. S. Thinniyam and G. Zetzsche. \textit{General Decidability Results for Systems with Continuous Counters}. In ACM, Principles of Programming Languages (POPL): 2026.
+	\item S. Akshay, A. R. Balasubramanian, S. Chakraborty and G. Zetzsche. \textit{Presburger Functional Synthesis: Complexity and Tractable Normal Forms}. In Proceedings of the International Conference on the Principles of Knowledge Representation and Reasoning (KR): 2025.
+	\item A. R. Balasubramanian, D. Chistikov and R. Majumdar. 
+	\textit{Pushdown Model Checking above the Cubic Bottleneck}.
+	In IEEE Computer Society, Logic in Computer Science (LICS): 2025. \textit{\textcolor{blue}{Distinguished Paper Award; Invited to TheoretiCS special issue}}.
+	\item A. R. Balasubramanian.
+	\textit{Decidability and Complexity of Decision Problems for Affine Continuous VASS}.
+	In ACM, Logic in Computer Science (LICS): 2024.
+	\item A. R. Balasubramanian, R. Majumdar, R. S. Thinniyam and G. Zetzsche.
+	\textit{Reachability in Continuous Pushdown VASS}.
+	In ACM, Principles of Programming Languages (POPL): 2024.
+	\item A. R. Balasubramanian.
+	\textit{Coefficient Synthesis for Threshold Automata}.
+	In Springer, Reachability Problems (RP): 2022. 
+	\textit{\textcolor{blue}{Invited to Fundamenta Infomaticae special issue}}.
+	\item A. R. Balasubramanian.
+	\textit{Complexity of Coverability in Depth-Bounded Processes}.
+	In LIPIcs, International Conference on Concurrency Theory (CONCUR): 2022.
+	\item A. R. Balasubramanian, Lucie Guillou and Chana Weil-Kennedy.
+	\textit{Parameterized Analysis of Reconfigurable Broadcast Networks}.
+	In Springer, International Conference on Foundations of Software Science and Computation Structures (FoSSaCS): 2022.
+	\item A. R. Balasubramanian.
+	\textit{Complexity of Coverability in Bounded Path Broadcast Networks}.
+	In LIPIcs, Foundations of Software Technology \& Theoretical Computer Science (FSTTCS): 2021.
+	\item A. R. Balasubramanian and Chana Weil-Kennedy.
+	\textit{Reconfigurable Broadcast Networks and Asynchronous Shared-Memory Systems are Equivalent}.
+	In EPTCS, Symposium on Games, Automata, Logics and Formal Verification (GandALF): 2021.
+	\item A. R. Balasubramanian and K. S. Thejaswini.
+	\textit{Adaptive Synchronisation of Pushdown Automata}.
+	In LIPIcs, International Conference on Concurrency Theory (CONCUR): 2021.
+	\item A. R. Balasubramanian, Timo Lang and Revantha Ramanayake.
+	\textit{Decidability and Complexity in Weakening and Contraction Hypersequent Substructural Logics}.
+	In IEEE Computer Society, Logic in Computer Science (LICS): 2021.
+	\item A. R. Balasubramanian, Javier Esparza and Mikhail Raskin.
+	\textit{Finding Cut-offs in Leaderless Rendez-Vous Protocols is Easy}.
+	In Springer, International Conference on Foundations of Software Science and Computation Structures (FoSSaCS): 2021. \textit{\textcolor{blue}{Invited to LMCS special issue}}.
+	\item A. R. Balasubramanian. \textit{Parameterized Complexity of Safety of Threshold Automata}.
+	In LIPIcs, Foundations of Software Technology \& Theoretical Computer Science (FSTTCS): 2020.
+	\item A. R. Balasubramanian, Javier Esparza, and Marijana Lazić.
+	\textit{Complexity of Verification and Synthesis of Threshold Automata}.
+	In Springer, International Symposium on Automated Technology for Verification and Analysis (ATVA): 2020.
+	\item A. R. Balasubramanian and Igor Walukiewicz. \textit{Characterizing Consensus in the Heard-Of model}.
+	In LIPIcs, International Conference on Concurrency Theory (CONCUR): 2020.
+	\item A. R. Balasubramanian. \textit{Complexity of controlled bad sequences over finite sets of $\mathbb{N}^d$}. In ACM, Logic in Computer Science (LICS): 2020.
+	\item A. R. Balasubramanian. \textit{Parameterized Verification of Coverability in Well-Structured Broadcast Networks.} In EPTCS, 
+	Symposium on Games, Automata, Logics and Formal Verification (GandALF): 2018. 
+	\textit{\textcolor{blue}{Invited to Information and Computation special issue}}.
+	\item A. R. Balasubramanian, Nathalie Bertrand and Nicolas Markey. \textit{Parameterized Verification of Synchronization in Constrained Reconfigurable Broadcast Networks.} In Springer, Tools and Algorithms for the Construction and Analysis of Systems (TACAS): 2018.
+\end{enumerate}
+
+
+
+\vspace{2pt}
+
+\section{Journal Publications}
+\begin{enumerate}
+	\setlength\itemsep{2pt}
+	\item A. R. Balasubramanian, Javier Esparza and Mikhail Raskin. \textit{Finding Cut-offs in Leaderless Rendez-Vous Protocols is Easy.} In Logical Methods in Computer Science: 2023. \textit{\textcolor{blue}{Special issue of FoSSaCS 2021}}.
+	\item A. R. Balasubramanian. \textit{Parameterized Verification of Coverability in Infinite State Broadcast Networks.} In Information and Computation: 2021. \textit{\textcolor{blue}{Special issue of GandALF 2018}}.
+\end{enumerate}
+
+\vspace{2pt}
+
+\section{Manuscripts Under Review}
+\begin{enumerate}
+	\setlength\itemsep{2pt}
+	\item A. R. Balasubramanian. \textit{Context Bounded Plans for Hierarchical Task Networks.} Submitted to the AAAI Conference on Artificial Intelligence (AAAI): 2027.
+	\item A. R. Balasubramanian and Lucie Guillou. \textit{Beep Is All You Need.}
+	\item A. R. Balasubramanian. \textit{Coefficient Synthesis for Threshold Automata.} Submitted to Fundamenta Informaticae. \textit{\textcolor{blue}{Special issue of RP 2022 and 2023}}.
+\end{enumerate}
+
+
+
+\section{Awards and Honours}
+
+\vspace{2pt}
+
+\begin{itemize}
+	
+%	\item{Ranked second place on the appointment list for a ``W1 professorship for Software Development and Verification (with tenure track to W2)'' at the University of Münster.}
+	
+	\item{Distinguished Paper Award at LICS 2025 for the paper "Pushdown Model Checking above the Cubic Bottleneck".}
+	
+	\item{Recipient of the CMI Gold Medal of Excellence for my Masters degree as the student with the best academic record.}
+	
+	\vspace{2pt}
+	
+	\item{Was awarded the INSPIRE scholarship for my Bachelors degree by the Department of Science and Technology, Government of India.}
+	
+	\vspace{2pt}
+	
+	\item{Was among the top 26 students selected to attend the International Olympiad in Informatics Training Camp (IOITC) of India in the year 2014.}
+	
+	
+	%\vspace{2pt}
+	
+	%\item{Qualified for the ACM ICPC regionals in the year 2014 and 2016 and
+		%	got an Honorable Mention in 2015 for Hindustan University's online round of ACM ICPC.}
+	
+\end{itemize}
+
+
+
+%\vspace{5pt}
+
+
+\section{Invitations to Program Committees}
+
+\begin{itemize}
+	\setlength\itemsep{2pt}
+	\item LICS 2027 Program Committee
+	\item ATVA 2026 Program Committee
+	\item Highlights 2026 Program Committee
+	\item STACS 2026 Program Committee
+	\item ATVA 2025 Program Committee
+\end{itemize}
+
+
+
+\section{Invitations to Workshops and Seminars}
+
+\begin{itemize}
+	\setlength\itemsep{2pt}
+	\item Autobóz 2026 Invitational Research Workshop
+	\item Autobóz 2025 Organizing Committee
+	\item Autobóz 2024 Invitational Research Workshop
+	\item Dagstuhl Seminar 24171 - Automated Synthesis: Functional, Reactive and Beyond
+	\item Dagstuhl Seminar 18211 -  Formal Methods and Fault-Tolerant Distributed Computing: Forging an Alliance	
+\end{itemize}
+
+
+
+\section{Teaching Experience}
+
+\begin{itemize}
+	\setlength\itemsep{5pt}
+	\item Interim Professor at Technical University of Munich (TUM)
+	\vspace{2pt}
+	\begin{itemize}
+		\setlength\itemsep{2pt}
+		\item Complexity Theory (MSc, English): WS 2024/2025
+		\item Master Seminar on Advanced Complexity Theory (MSc, English): WS 2024/2025
+	\end{itemize}
+	\vspace{4pt}
+	
+	As an interim professor, I was responsible for designing the curriculum for the courses, conducting the weekly lectures and setting and grading the assignments and the final exam.	
+	
+	\item Co-Lecturer at the RPTU University Kaiserslautern-Landau
+	\vspace{2pt}
+	\begin{itemize}
+		\setlength\itemsep{2pt}
+		\item Algorithms and Data Structures (BSc, English): SS 2024	
+	\end{itemize}
+	\vspace{4pt}
+	
+	My responsibilities as a co-lecturer included conducting the weekly lectures.
+	
+	\item (Co-)Head TA at Technical University of Munich (TUM)
+	\vspace{2pt}
+	\begin{itemize}
+		\setlength\itemsep{2pt}
+		\item Logic (MSc, English) - SS 2023
+		\item Automata and Formal Languages (MSc, English) - WS 2022/2023, WS 2021/2022
+		\item Petri Nets (MSc, English) - SS 2022
+		\item Master Seminar on Advanced Complexity Theory (MSc, English) - WS 2021/2022
+		\item Complexity Theory (MSc, English) - SS 2021
+		\item Efficient Algorithms and Data Structures (MSc, English) - WS 2020/2021
+		\item Games on Graphs (MSc, English) - SS 2020
+	\end{itemize}
+	
+	\item (Co-)Head TA at Chennai Mathematical Institute (CMI)
+	\vspace{2pt}
+	\begin{itemize}
+		\setlength\itemsep{2pt}
+		\item Complexity Theory (BSc/MSc, English) - Jan - Apr 2018
+		\item Theory of Computation (BSc, English) - Aug - Nov 2017, 2016
+		\item Advanced Programming (BSc, English) - Jan - Apr 2016
+	\end{itemize}
+	
+	\vspace{4pt}
+		My responsibilities as a (co-)head TA included designing (weekly) exercise sheets for the students, conducting tutorial sessions 
+	and co-organizing and setting questions for the final exam. 
+	
+\end{itemize}
+
+\section{Student Supervision}
+
+\subsection{As Principal Supervisor}
+\vspace{2pt}
+
+\begin{itemize}
+	\setlength{\itemsep}{2pt}
+	\item Franzisco David Schmidt: Bachelor's thesis on parameterized hardness of nested counter systems (2025). Resulted in a publication at LICS 2026.
+	\item Mika Alkabetz: Bachelor's thesis on fine-grained complexity of integer counter systems (2025).
+	\item Zixuan Fan: Guided research project on quantified Horn formulas over linear rational arithmetic (2024/2025).
+\end{itemize}
+
+\vspace{2pt}
+
+\subsection{As Co-Supervisor}
+
+\vspace{2pt}
+
+\begin{itemize}
+	\setlength{\itemsep}{2pt}
+	\item Lucie Guillou: Internship on parameterized analysis of reconfigurable broadcast networks (2022).
+	Resulted in a publication at FoSSaCS 2022.
+	\item Florian Kessler: Guided research project on exact values for longest controlled bad sequences over vectors of natural numbers (2021/2022).
+\end{itemize}
+
+\section{Invited Talks at Workshops and Seminars}
+
+
+\begin{itemize}
+	\setlength\itemsep{2pt} 
+	\item \textit{Approximations for Analyzing Infinite-State Systems} at ISTA, Vienna - June 30, 2026.
+	\item \textit{Complexity Hierarchies beyond Ackermann} at the University of Groningen - November 21, 2025. 
+	\item \textit{Reachability in Continuous Pushdown VASS} at the MTV LaBRI Seminar, Bordeaux - March 28, 2024.
+	\item \textit{Complexity of Coverability in Depth-Bounded Processes} at 
+	the OFCOURSE student talk series, MPI-SWS, Kaiserslautern - September 8, 2022.
+	\item \textit{Complexity of Verification and Synthesis of Threshold Automata} at 
+	the 7th Workshop on Formal Reasoning in Distributed Algorithms (FRIDA) 2020 - September 5, 2020. 
+\end{itemize}
+
+
+
+
+\section{Community Service}
+
+Reviewed submissions for CONCUR 2026, LICS 2026, CAV 2026, FoSSaCS 2026, STACS 2026, ATVA 2025, MFCS 2025, ICALP 2025, LICS 2024, CONCUR 2024, CONCUR 2023, MFCS 2023, FoSSaCS 2023, TACAS 2023, Petri Nets 2023, FoSSaCS 2022, TACAS 2022, Petri Nets 2022, CONCUR 2022, Petri Nets 2021, CAV 2021, ATVA 2021, ATVA 2020, ICALP 2020, LMCS and Information and Computation. 
+
+
+\section{Internationally Based Activities, Networks and Relations}
+
+Below, I detail the research projects that I am/had been a part of which consists of researchers from abroad who are outside my groups (at TUM and MPI-SWS).
+
+\vspace{5pt}
+
+\begin{itemize}
+	\setlength{\itemsep}{2pt}
+	\item Research project with Michal Ajdarów from the University of Liverpool and Łukasz Orlikowski from the University of Warsaw on fixed-dimensional continuous VASS. Resulted in a joint publication at CONCUR 2026.
+	\item Research project with Vitor Greati and Prof. Revantha Ramanayake from the University of Groningen, Netherlands on substructural logics. Resulted in a joint publication at LICS 2026.
+	\item Research project with Prof. Umang Mathur from the National University of Singapore and Minjian Zhang from the University of Illinois at Urbana-Champaign on DPOR-based model checkers. Resulted in a joint publication at PLDI 2026.
+	\item Research project with Prof. Matthew Hague from the Royal Holloway University of London, UK and Prof. Ramanathan S. Thinniyam from Uppsala University, Sweden on continuous Petri nets. Resulted in a joint publication at POPL 2026.
+	\item Research project with Prof. S. Akshay and Prof. Supratik Chakraborty from IIT Bombay, India on Skolem synthesis for Presburger arithmetic. Resulted in a joint publication at KR 2025.
+	\item Research project with Prof. Dmitry Chistikov from the University of Warwick, UK on 
+	fine-grained complexity of automata models. Resulted in a joint publication at LICS 2025.
+	\item Research project with Timo Lang and Prof. Revantha Ramanayake from TU Wien, Austria on
+	substructural logics. Resulted in a joint publication at LICS 2021.
+	\item Research project with K. S. Thejaswini from the University of Warwick, UK on adaptive synchronisation. Resulted in a joint publication at CONCUR 2021.
+	\item Research internship at LSV, France under Prof. Philippe Schnoebelen and Prof. Sylvain Schmitz
+	during May-July 2019.
+	Resulted in a publication at LICS 2020.
+	\item Research internship at LaBRI, France under Prof. Igor Walukiewicz during May-November 2018.
+	Resulted in a joint publication at CONCUR 2020.
+	\item Research internship at INRIA-Rennes, France under Prof. Nathalie Bertrand and Prof. Nicolas Markey during May-July 2017.
+	Resulted in a joint publication at TACAS 2018.
+\end{itemize}
+
+\section{References}
+
+\vspace{2pt}
+
+\begin{itemize}
+	\item{\cventry{}{Professor at the Technical University of Munich}{Prof. Javier Esparza}{esparza@in.tum.de}{}{}}
+	
+	\vspace{2 pt}
+	
+	\item{\cventry{}{Scientific Director at the Max Planck Institute for Software Systems}{Prof. Rupak Majumdar}{rupak@mpi-sws.org}{}{}}
+	
+	\vspace{2 pt}
+	
+	\item{\cventry{}{Tenured Faculty at the Max Planck Institute for Software Systems}{Dr. Georg Zetzsche}{georg@mpi-sws.org}{}{}}
+\end{itemize}
+
+
+
+
+
+
+
+% Publications from a BibTeX file without multibib
+%  for numerical labels: \renewcommand{\bibliographyitemlabel}{\@biblabel{\arabic{enumiv}}}% CONSIDER MERGING WITH PREAMBLE PART
+%  to redefine the heading string ("Publications"): \renewcommand{\refname}{Articles}
+\nocite{*}
+\bibliographystyle{plain}
+%\bibliography{publications}                        % 'publications' is the 	name of a BibTeX file
+
+
+% Publications from a BibTeX file using the multibib package
+%\section{Publications}
+%\nocitebook{book1,book2}
+%\bibliographystylebook{plain}
+%\bibliographybook{publications}                   % 'publications' is the name of a BibTeX file
+%\nocitemisc{misc1,misc2,misc3}
+%\bibliographystylemisc{plain}
+%\bibliographymisc{publications}                   % 'publications' is the name of a BibTeX file
+
+%-----       letter       ---------------------------------------------------------
+
+\end{document}
+
+
+%% end of file `template.tex'.
