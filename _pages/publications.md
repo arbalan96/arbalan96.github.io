@@ -16,7 +16,7 @@ A full publication list is available at [dblp](https://dblp.org/pid/215/5409.htm
 
 * **Reachability in Fixed-Dimensional Continuous VASS** [[paper](https://doi.org/10.4230/LIPIcs.CONCUR.2026.7)] [[arXiv](https://arxiv.org/abs/2606.30042)]<br>
 M. Ajdarów, A. R. Balasubramanian, Ł. Orlikowski<br>
-*International Conference on Concurrency Theory (CONCUR) 2026*
+*International Conference on Concurrency Theory (CONCUR) 2026*<br>
 *<span style="color: blue;">Best Paper Award</span>*
 
 * **The Complexity of Nested Reset Counter Systems** [[paper](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.LICS.2026.11)] [[arXiv](https://arxiv.org/abs/2605.14850)]<br>
@@ -145,12 +145,12 @@ A. R. Balasubramanian<br>
 * **Beep Is All You Need**<br>
 A. R. Balasubramanian, L. Guillou<br>
 
-* **Pushdown Model Checking Above the Cubic Bottleneck**[[arXiv](https://arxiv.org/abs/2608.24601)]<br>
+* **Pushdown Model Checking Above the Cubic Bottleneck** [[arXiv](https://arxiv.org/abs/2608.24601)]<br>
 A. R. Balasubramanian, D. Chistikov, R. Majumdar<br>
 *Submitted to TheoretiCS*<br>
 *<span style="color: blue;">Special issue of LICS 2025</span>*
 
-* **Coefficient Synthesis for Threshold Automata**[[arXiv](https://arxiv.org/abs/2304.08917v3)]<br>
+* **Coefficient Synthesis for Threshold Automata** [[arXiv](https://arxiv.org/abs/2304.08917v3)]<br>
 A. R. Balasubramanian<br>
 *Submitted to Fundamenta Informaticae*<br>
 *<span style="color: blue;">Special issue of RP 2022 and 2023</span>*
