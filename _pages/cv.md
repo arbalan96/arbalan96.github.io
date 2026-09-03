@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <a href="https://arbalan96.github.io/CV.pdf" class="btn btn--primary">Download CV (PDF)</a>
-<span style="font-size:0.8em; color:#898c8f;">Last updated: August 2026</span>
+<span style="font-size:0.8em; color:#898c8f;">Last updated: September 2026</span>
 
 ## Awards and Honours
 
