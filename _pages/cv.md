@@ -10,6 +10,7 @@ author_profile: true
 
 ## Awards and Honours
 
+- **Best Paper Award** at the International Conference on Concurrency Theory (CONCUR), 2026.
 - **Distinguished Paper Award** at Logic in Computer Science (LICS), 2025.
 - **Doctorate awarded *summa cum laude*** from the Technical University of Munich.
 - **CMI Gold Medal of Excellence** as the student with the best academic record for my Masters degree.
