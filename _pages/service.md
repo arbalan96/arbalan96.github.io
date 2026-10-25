@@ -9,7 +9,7 @@ author_profile: true
 --------------
 
 ## Program Committee
-* **2027**: LICS 2027
+* **2027**: PLDI 2027, LICS 2027
 * **2026**: Highlights 2026, ATVA 2026, STACS 2026
 * **2025**: ATVA 2025
 

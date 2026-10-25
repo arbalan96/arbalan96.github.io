@@ -138,12 +138,17 @@ A. R. Balasubramanian<br>
 
 ## Preprints and Submissions
 
-* **Context-Bounded Plans for Hierarchical Task Networks**<br>
-A. R. Balasubramanian<br>
-*Submitted to AAAI 2027*
+* **The Complexity of Coverability in Affine VASS and Affine Continuous VASS**<br>
+A. R. Balasubramanian, M. Raskin and T. Rubab<br>
+*Submitted to ICALP 2027*
 
 * **Beep Is All You Need**<br>
 A. R. Balasubramanian, L. Guillou<br>
+*Submitted to ICALP 2027*
+
+* **Context-Bounded Plans for Hierarchical Task Networks**<br>
+A. R. Balasubramanian<br>
+*Submitted to AAAI 2027*
 
 * **Pushdown Model Checking Above the Cubic Bottleneck** [[arXiv](https://arxiv.org/abs/2608.24601)]<br>
 A. R. Balasubramanian, D. Chistikov, R. Majumdar<br>
