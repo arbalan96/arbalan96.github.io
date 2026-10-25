@@ -33,7 +33,7 @@ redirect_from:
 
 Hi! I am a post-doctoral researcher at the Max Planck Institute for Software Systems (MPI-SWS), working with Rupak Majumdar. I received my Ph.D. *summa cum laude* from the Technical University of Munich in 2024, supervised by  Javier Esparza. From October 2024 to March 2025 I held a Vertretungsprofessur (interim professorship) at the Technical University of Munich.
 
-My research concerns the **algorithmic analysis of infinite-state systems**. These systems are models of computation whose state space is infinite, typically because they include unbounded data structures such as counters or stacks (e.g. vector addition systems, Petri nets and pushdown automata). My work focuses on
+My research concerns the **algorithmic analysis of infinite-state systems**. Such systems are models of computation whose state space is infinite, typically because they include unbounded data structures such as counters or stacks (e.g. vector addition systems, Petri nets and pushdown automata). My work focuses on
 * Designing optimal algorithms for analysing infinite-state systems, using tools from automata theory and well-quasi-orders
 * Developing tractable approximations when exact analysis is intractable, using tools from arithmetic theories
 * Applying these techniques to problems from verification, substructural logics, functional synthesis and AI planning
